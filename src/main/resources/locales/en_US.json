@@ -1,0 +1,4 @@
+{
+	"label": "X12 Parser",
+	"description": "Package to parse ANSI X12 EDI standard files"
+}
