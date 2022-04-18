@@ -1,5 +1,6 @@
 # X12 Parser
-Package to parse ANSI X12 EDI files
+A360 Package to parse ANSI X12 EDI files
+This package uses the Java X12 Parser by imsweb: https://github.com/imsweb/x12-parser
 
 ## Features
  * Parse by Loop, Segment and Element
